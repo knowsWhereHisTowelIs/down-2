@@ -1,0 +1,20 @@
+    1  pip install pymongo
+    2  sudo apt install python-pip
+    3  sudo apt-get update
+    4  sudo apt install python-pip
+    5  pip install pymongo
+    6  ./main.py 
+    7  python2 main.py 
+    8  sudo apt-get install bpython
+    9  bpython
+   10  whereis python2
+   11  nano ./main.py 
+   12  ./main.py 
+   13  nano ./main.py 
+   14  ./main.py 
+   15  nano ./main.py 
+   16  git
+   17  git init
+   18  git remote add origin master https://github.com/knowsWhereHisTowelIs/down-2.git
+   19  history
+   20  history > shit-for-miguel
